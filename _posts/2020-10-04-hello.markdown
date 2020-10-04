@@ -5,24 +5,7 @@ date:   2020-10-04 12:59:22 +0200
 categories: Meta
 ---
 
-I had long considered making a blog, but ultimately didn't because of the work
-involved. Previously I had tried wordpress and some flat-file php system. Both
-made things more complicated than they had to be. I came to think that
-I need to build a simple blog in django, but never did this because it is still
-somewhat involved. 
-
-Some days ago I learned about [jekyll](https://jekyllrb.com) and static site
-generators in general. This sounded interesting because they avoid all of the
-problems of more complicated setups (databases, php, to name a few). The main
-thing that is missing to my is dynamic content, but after a while of
-thinking I concluded that I don't need that.
-
-After a while I have spent some time to make a jekyll site and modify the
-included [minima](https://github.com/jekyll/minima) theme. I mainly changed the
-footer, which was too large. I also hosted this on github pages just to avoid
-changes on my VPS breaking my site. The process was surprisingly simple, most
-problems arose due to me not properly reading the manuals or typos.
-
-Anyhow, expect stuff in this space in the future.
+This is just a placeholder post and expect proper stuff in this space in the
+future.
 
 
