@@ -33,6 +33,7 @@ show_excerpts: true
 
 # Build settings
 theme: minima
+remote_theme: lysogeny/minima
 plugins:
   - jekyll-feed
 
