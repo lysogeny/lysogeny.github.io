@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 
 # Build settings
-theme: minima
+#theme: minima
 remote_theme: lysogeny/minima
 plugins:
   - jekyll-feed
